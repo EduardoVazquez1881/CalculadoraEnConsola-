@@ -1,0 +1,16 @@
+C:\Users\Eduar\OneDrive\Documentos\Programas\CalculadoraClases\CalculadoraClases\bin\Debug\CalculadoraClases.exe.config
+C:\Users\Eduar\OneDrive\Documentos\Programas\CalculadoraClases\CalculadoraClases\bin\Debug\CalculadoraClases.exe
+C:\Users\Eduar\OneDrive\Documentos\Programas\CalculadoraClases\CalculadoraClases\bin\Debug\CalculadoraClases.pdb
+C:\Users\Eduar\OneDrive\Documentos\Programas\CalculadoraClases\CalculadoraClases\obj\Debug\CalculadoraClases.csproj.AssemblyReference.cache
+C:\Users\Eduar\OneDrive\Documentos\Programas\CalculadoraClases\CalculadoraClases\obj\Debug\CalculadoraClases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduar\OneDrive\Documentos\Programas\CalculadoraClases\CalculadoraClases\obj\Debug\CalculadoraClases.csproj.CoreCompileInputs.cache
+C:\Users\Eduar\OneDrive\Documentos\Programas\CalculadoraClases\CalculadoraClases\obj\Debug\CalculadoraClases.exe
+C:\Users\Eduar\OneDrive\Documentos\Programas\CalculadoraClases\CalculadoraClases\obj\Debug\CalculadoraClases.pdb
+C:\Users\Eduar\OneDrive\Documentos\Programas\Programas en consola C#\Calculadora\CalculadoraClases\bin\Debug\CalculadoraClases.exe.config
+C:\Users\Eduar\OneDrive\Documentos\Programas\Programas en consola C#\Calculadora\CalculadoraClases\bin\Debug\CalculadoraClases.exe
+C:\Users\Eduar\OneDrive\Documentos\Programas\Programas en consola C#\Calculadora\CalculadoraClases\bin\Debug\CalculadoraClases.pdb
+C:\Users\Eduar\OneDrive\Documentos\Programas\Programas en consola C#\Calculadora\CalculadoraClases\obj\Debug\CalculadoraClases.csproj.AssemblyReference.cache
+C:\Users\Eduar\OneDrive\Documentos\Programas\Programas en consola C#\Calculadora\CalculadoraClases\obj\Debug\CalculadoraClases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduar\OneDrive\Documentos\Programas\Programas en consola C#\Calculadora\CalculadoraClases\obj\Debug\CalculadoraClases.csproj.CoreCompileInputs.cache
+C:\Users\Eduar\OneDrive\Documentos\Programas\Programas en consola C#\Calculadora\CalculadoraClases\obj\Debug\CalculadoraClases.exe
+C:\Users\Eduar\OneDrive\Documentos\Programas\Programas en consola C#\Calculadora\CalculadoraClases\obj\Debug\CalculadoraClases.pdb
